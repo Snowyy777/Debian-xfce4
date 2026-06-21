@@ -1,8 +1,8 @@
-# **XFCE4 Installer**
+# XFCE4 Installer
 
 Instalador semi-automático de Debian + XFCE4 para Termux.
 
-## 🚀 Instalação
+## 🚀 **Instalação**
 
 Execute os comandos abaixo no Termux:
 
