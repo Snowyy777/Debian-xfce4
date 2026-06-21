@@ -8,7 +8,7 @@ Execute os comandos abaixo no Termux:
 
 pkg install wget -y
 
-wget https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/setup.sh
+wget https://raw.githubusercontent.com/Snowyy777/Debian-xfce4/refs/heads/main/setup.sh
 
 chmod +x setup.sh
 
