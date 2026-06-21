@@ -2,7 +2,7 @@
 
 Instalador semi-automático de Debian + XFCE4 para Termux.
 
-🚀 Instalação
+## 🚀 Instalação
 
 Execute os comandos abaixo no Termux:
 
@@ -14,9 +14,9 @@ chmod +x setup.sh
 
 ./setup.sh
 
-«⏳ A instalação pode levar vários minutos dependendo da sua conexão.»
+## «⏳ A instalação pode levar vários minutos dependendo da sua conexão.»
 
-⚠️ Atenção
+## ⚠️ Atenção
 
 Durante a instalação será necessário:
 
@@ -24,12 +24,12 @@ Durante a instalação será necessário:
 - Confirmar algumas opções
 - Editar alguns arquivos quando solicitado
 
-▶️ Como iniciar
+## ▶️ Como iniciar
 
 Após a instalação:
 
 ./startxfce4_debian.sh
 
-📷 Demonstração
+## 📷 Demonstração
 
 "Banner" (banner.gif)
