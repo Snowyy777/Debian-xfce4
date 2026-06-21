@@ -11,7 +11,7 @@ proot-distro install debian
 proot-distro login debian -- bash -c "apt update -y
 apt install adduser nano -y
 apt install sudo -y
-adduser Vulca
+adduser Admin
 nano /etc/sudoers
 sudo apt install xfce4 -y"
 wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/refs/heads/main/scripts/proot_debian/startxfce4_debian.sh
