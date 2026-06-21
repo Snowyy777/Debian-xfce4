@@ -32,6 +32,4 @@ Após a instalação:
 
 ## 📷 Demonstração
 
-<p align="center">
-  <img src="banner.gif" alt="Banner">
-</p>
+![Demonstração](banner.gif)
