@@ -9,12 +9,17 @@ Execute os comandos abaixo no Termux:
 ```bash
 pkg install wget -y
 ```
-
+```bash
 wget https://raw.githubusercontent.com/Snowyy777/Debian-xfce4/refs/heads/main/setup.sh
+```
 
+```bash
 chmod +x setup.sh
+```
 
+```bash
 ./setup.sh
+```
 
 ## «⏳ A instalação pode levar vários minutos dependendo da sua conexão.»
 
