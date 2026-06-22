@@ -6,7 +6,9 @@ Instalador semi-automático de Debian + XFCE4 para Termux.
 
 Execute os comandos abaixo no Termux:
 
+```bash
 pkg install wget -y
+```
 
 wget https://raw.githubusercontent.com/Snowyy777/Debian-xfce4/refs/heads/main/setup.sh
 
