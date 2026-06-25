@@ -20,7 +20,7 @@ chmod +x setup.sh
 ```bash
 ./setup.sh
 ```
->[!TIP]
+>[!NOTE]
 > «⏳ A instalação pode levar vários minutos dependendo da sua conexão.»
 
 ## ⚠️ Atenção
