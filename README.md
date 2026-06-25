@@ -21,7 +21,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-## «⏳ A instalação pode levar vários minutos dependendo da sua conexão.»
+> «⏳ A instalação pode levar vários minutos dependendo da sua conexão.»
 
 ## ⚠️ Atenção
 
